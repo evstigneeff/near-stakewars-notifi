@@ -1,0 +1,12 @@
+// {
+//     "compilerOptions": {
+//         "types": [
+//             "node"
+//         ]
+//     }
+// }
+{
+    "compilerOptions": {
+      "lib": [ "es2015" ]
+    }
+  }
